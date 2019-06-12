@@ -32,3 +32,5 @@ New tax code: from now to 2026 we are experiencing lowest tax rates especially f
         * What type of death benefit? 
             * Decreasing as cash value increases
             * Increasing as cash value increases 
+
+            ![alt text](./images/tax.png "On the road to zero % tax in retirement")
