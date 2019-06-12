@@ -7,7 +7,7 @@ annual_contributions = ( my_contributions + company_contributions ) * 24 #paystu
 
 print("Annual Contributions", annual_contributions)
 
-years_to_retirement = 59.5 - 23
+years_to_retirement = 59.5 - 23 # current age
 print("Years To Retirement", years_to_retirement)
 
 standard_deduction = 24000 
@@ -19,7 +19,7 @@ while count > 0:
 
 print("Est Standard Deduction at Retirement", standard_deduction)
 
-#RMD
+#Required Minimum Distribution
 desired_401KTotal = standard_deduction / 0.0365
 print("Desired 401K Total", desired_401KTotal)
 
@@ -28,7 +28,7 @@ count = years_to_retirement
 val_401K = annual_contributions 
 while count > 0:
     count -= 1 
-    val_401K += val_401K * 0.08
+    val_401K += val_401K * 0.08 #return rate of 401k typically between 6-8%
 print("401K Value at retirement with 1 year contribution", val_401K)
 
 stop_contributing = False
