@@ -1,5 +1,11 @@
 ## Retirement Tax 
 
+
+##### An example 401K contribution strategy
+ ![alt text](./images/result.png "An example 401K contribution strategy")
+Calculated using [retirement_tax.py](./retirement_tax.py)
+
+
 Taken from: [The Power of Zero](https://www.amazon.com/Power-Zero-Revised-Updated-Retirement-ebook/dp/B07C6TLPKK/ref=sr_1_1?gclid=Cj0KCQjwov3nBRDFARIsANgsdoGooEO42xLOhTJ_jIhiajO3w0KH932WTNjM7_h07yswhQ3kviq_HDMaAoU_EALw_wcB&hvadid=174247353503&hvdev=c&hvlocphy=1014221&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=6324418929106046054&hvtargid=aud-647846986281%3Akwd-12152710986&hydadcr=22536_9636733&keywords=the+power+of+zero&qid=1560302602&s=gateway&sr=8-1)
 
 ### Context
