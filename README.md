@@ -2,6 +2,8 @@
 
 
 ##### An example 401K contribution strategy
+This theory is based on gaining the most out of the 401K tool and not paying any tax upon withdrawing from it. Once you get to the year you *stop* contributing to your 401K you should then hyper focus on other post tax investment strategies as hinted upon in the rest of this note and your research. 
+
  ![alt text](./images/result.png "An example 401K contribution strategy")
 Calculated using [retirement_tax.py](./retirement_tax.py)
 
