@@ -42,3 +42,9 @@ New tax code: from now to 2026 we are experiencing lowest tax rates especially f
             * Increasing as cash value increases 
 
             ![alt text](./images/tax.png "On the road to zero % tax in retirement")
+
+# Refactoring
+
+Refactoring python code 
+
+![alt text](./images/refactor_result.png "On the road to zero % tax in retirement")
